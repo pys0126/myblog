@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"title": "I'am UodRad",
+		"title": "UodRad",
 		"description": "UodRad 的个人博客，一个Python后端的日常记录。"
 	},
 	"theme": {
@@ -55,6 +55,20 @@
 			"value": "https://gitee.com/uodrad",
 			"label": "Gitee",
 			"order": 3
+		},
+		{
+			"id": "button-1764916700186",
+			"type": "link",
+			"value": "https://blog.csdn.net/weixin_39414433",
+			"label": "CSDN",
+			"order": 4
+		},
+		{
+			"id": "button-1764916700186",
+			"type": "link",
+			"value": "https://toy.ycdy.site",
+			"label": "ToyBox",
+			"order": 5
 		}
 	]
 }

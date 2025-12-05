@@ -62,13 +62,6 @@
 			"value": "https://blog.csdn.net/weixin_39414433",
 			"label": "CSDN",
 			"order": 4
-		},
-		{
-			"id": "button-1764916700186",
-			"type": "link",
-			"value": "https://toy.ycdy.site",
-			"label": "ToyBox",
-			"order": 5
 		}
 	]
 }
